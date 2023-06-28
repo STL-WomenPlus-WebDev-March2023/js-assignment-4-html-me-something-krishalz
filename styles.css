@@ -1,1 +1,32 @@
-/* Write your CSS here! */
+h2 {
+    color: blue;
+    background-color:lightgray;
+    margin: 10px;
+    padding: 20px;
+    border-color: black;
+
+}
+body {
+    margin: 8px;
+    display: block;
+    text-align: center;
+}
+.pacificLook {
+    background-color: lightskyblue;
+}
+.funParagraph {
+    background-color: coral;
+    text-align: center;
+    color: darkblue;
+    font-size: 20px;
+    font-weight: bold;
+}
+#mainHeading {
+    color: red;
+    text-align: center;
+    display: block;
+    margin: 40px;
+}
+#testP {
+    color: green;
+}
